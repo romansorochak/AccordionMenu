@@ -1,4 +1,4 @@
-# AccordionMenu
+# AccordionMenu iOS
 AccordionMenu is a tableview with elapsed/collapsed sections
 
 - ellapse and collapse with animation  
